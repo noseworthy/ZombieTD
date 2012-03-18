@@ -1,0 +1,58 @@
+<Root Difficulty="Easy" Resources="200">
+	<Wave Index="0" Type="Wave" Time="5000" Zombies="3">
+		<Model Type="Zombie" Position="r: -100,0 0,550" Speed="3 0" Health="100" MaxSpeed="3 3">
+			<Behavior Type="Zombie"></Behavior></Model>
+		<Behavior Type="Wave"></Behavior></Wave>
+	<Wave Index="1" Type="Wave" Time="20000" Zombies="5">
+		<Model Type="Zombie" Position="r: -100,0 0,550" Speed="3 0" Health="100">
+			<Behavior Type="Zombie"></Behavior></Model>
+		<Behavior Type="Wave"></Behavior></Wave>
+	<Wave Index="2" Type="Wave" Time="32000" Zombies="5">
+		<Model Type="Zombie" Position="r: -100,0 0,550" Speed="2 0" Health="100">
+			<Behavior Type="Zombie"></Behavior></Model>
+		<Behavior Type="Wave"></Behavior></Wave>
+	<Wave Index="3" Type="Wave" Time="45000" Zombies="12">
+		<Model Type="Zombie" Position="r: -100,0 0,550" Speed="2 0" Health="150">
+			<Behavior Type="Zombie"></Behavior></Model>
+		<Behavior Type="Wave"></Behavior></Wave>
+	<Wave Index="4" Type="Wave" Time="60000" Zombies="20">
+		<Model Type="Zombie" Position="r: -100,0 0,550" Speed="2 0" Health="140">
+			<Behavior Type="Zombie"></Behavior></Model>
+		<Behavior Type="Wave"></Behavior></Wave>
+	<Wave Index="5" Type="Wave" Time="70000" Zombies="20">
+		<Model Type="Zombie" Position="r: -100,0 0,550" Speed="2 0"
+			Health="200">
+			<Behavior Type="Zombie"></Behavior>
+		</Model>
+		<Behavior Type="Wave"></Behavior></Wave>
+	<Wave Index="6" Type="Wave" Time="75000" Zombies="25">
+		<Model Type="Zombie" Position="r: -100,0 0,550" Speed="2 0"
+			Health="200">
+			<Behavior Type="Zombie"></Behavior>
+		</Model>
+		<Behavior Type="Wave"></Behavior></Wave>
+	<Wave Index="7" Type="Wave" Time="82000" Zombies="25">
+		<Model Type="Zombie" Position="r: -100,0 0,550" Speed="2 0"
+			Health="250">
+			<Behavior Type="Zombie"></Behavior>
+		</Model>
+		<Behavior Type="Wave"></Behavior></Wave>
+	<Wave Index="8" Type="Wave" Time="90000" Zombies="30">
+		<Model Type="Zombie" Position="r: -100,0 0,550" Speed="2 0"
+			Health="250">
+			<Behavior Type="Zombie"></Behavior>
+		</Model>
+		<Behavior Type="Wave"></Behavior></Wave>
+		<Wave Index="9" Type="Wave" Time="105000" Zombies="30">
+		<Model Type="Zombie" Position="r: -100,0 0,550" Speed="3 0"
+			Health="300">
+			<Behavior Type="Zombie"></Behavior>
+		</Model>
+		<Behavior Type="Wave"></Behavior></Wave>
+		<Wave Index="10" Type="Wave" Time="12000" Zombies="20">
+		<Model Type="Zombie" Position="r: -100,0 0,550" Speed="4 0"
+			Health="300">
+			<Behavior Type="Zombie"></Behavior>
+		</Model>
+		<Behavior Type="Wave"></Behavior></Wave>
+				</Root>

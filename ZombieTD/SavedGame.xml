@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root Difficulty="Easy" GameTime="17" KillCount="0" Paused="False" PlayerHealth="10" PlayerScore="0" Resources="200" TimeToNextWave="5" ToRemove="False" gameState="LOAD_SCREEN">
+<Wave GameTime="0" Index="0" IsFinished="False" IsReady="true" IsStarted="true" MaxTime="100" SetLastGameTime="True" Time="5000" ToRemove="False" Type="Wave" Zombies="3">
+<Model Damage="1" GameTime="0" Health="100" MaxSpeed="3 3" ModelState="STILL" Position="-51 338" Selected="False" Speed="3 0" ToRemove="False" Type="Zombie">
+<Behavior ToRemove="False" Type="Zombie"/>
+</Model>
+<Behavior GameTime="0" ToRemove="False" Type="Wave"/>
+</Wave>
+<Wave GameTime="0" Index="1" IsFinished="False" IsReady="False" IsStarted="False" MaxTime="400" SetLastGameTime="True" Time="20000" ToRemove="False" Type="Wave" Zombies="5">
+<Model Damage="1" GameTime="0" Health="100" ModelState="STILL" Position="-68 29" Selected="False" Speed="3 0" ToRemove="False" Type="Zombie">
+<Behavior ToRemove="False" Type="Zombie"/>
+</Model>
+<Behavior ToRemove="False" Type="Wave"/>
+</Wave>
+<Wave GameTime="0" Index="2" IsFinished="False" IsReady="False" IsStarted="False" MaxTime="640" SetLastGameTime="True" Time="32000" ToRemove="False" Type="Wave" Zombies="5">
+<Model Damage="1" GameTime="0" Health="100" ModelState="STILL" Position="-10 77" Selected="False" Speed="2 0" ToRemove="False" Type="Zombie">
+<Behavior ToRemove="False" Type="Zombie"/>
+</Model>
+<Behavior ToRemove="False" Type="Wave"/>
+</Wave>
+<Wave GameTime="0" Index="3" IsFinished="False" IsReady="False" IsStarted="False" MaxTime="900" SetLastGameTime="True" Time="45000" ToRemove="False" Type="Wave" Zombies="12">
+<Model Damage="1" GameTime="0" Health="150" ModelState="STILL" Position="-93 283" Selected="False" Speed="2 0" ToRemove="False" Type="Zombie">
+<Behavior ToRemove="False" Type="Zombie"/>
+</Model>
+<Behavior ToRemove="False" Type="Wave"/>
+</Wave>
+<Wave GameTime="0" Index="4" IsFinished="False" IsReady="False" IsStarted="False" MaxTime="1200" SetLastGameTime="True" Time="60000" ToRemove="False" Type="Wave" Zombies="20">
+<Model Damage="1" GameTime="0" Health="140" ModelState="STILL" Position="-64 386" Selected="False" Speed="2 0" ToRemove="False" Type="Zombie">
+<Behavior ToRemove="False" Type="Zombie"/>
+</Model>
+<Behavior ToRemove="False" Type="Wave"/>
+</Wave>
+<Wave GameTime="0" Index="5" IsFinished="False" IsReady="False" IsStarted="False" MaxTime="1400" SetLastGameTime="True" Time="70000" ToRemove="False" Type="Wave" Zombies="20">
+<Model Damage="1" GameTime="0" Health="200" ModelState="STILL" Position="-31 414" Selected="False" Speed="2 0" ToRemove="False" Type="Zombie">
+<Behavior ToRemove="False" Type="Zombie"/>
+</Model>
+<Behavior ToRemove="False" Type="Wave"/>
+</Wave>
+<Wave GameTime="0" Index="6" IsFinished="False" IsReady="False" IsStarted="False" MaxTime="1500" SetLastGameTime="True" Time="75000" ToRemove="False" Type="Wave" Zombies="25">
+<Model Damage="1" GameTime="0" Health="200" ModelState="STILL" Position="-39 62" Selected="False" Speed="2 0" ToRemove="False" Type="Zombie">
+<Behavior ToRemove="False" Type="Zombie"/>
+</Model>
+<Behavior ToRemove="False" Type="Wave"/>
+</Wave>
+<Wave GameTime="0" Index="7" IsFinished="False" IsReady="False" IsStarted="False" MaxTime="1640" SetLastGameTime="True" Time="82000" ToRemove="False" Type="Wave" Zombies="25">
+<Model Damage="1" GameTime="0" Health="250" ModelState="STILL" Position="-46 120" Selected="False" Speed="2 0" ToRemove="False" Type="Zombie">
+<Behavior ToRemove="False" Type="Zombie"/>
+</Model>
+<Behavior ToRemove="False" Type="Wave"/>
+</Wave>
+<Wave GameTime="0" Index="8" IsFinished="False" IsReady="False" IsStarted="False" MaxTime="1800" SetLastGameTime="True" Time="90000" ToRemove="False" Type="Wave" Zombies="30">
+<Model Damage="1" GameTime="0" Health="250" ModelState="STILL" Position="-14 100" Selected="False" Speed="2 0" ToRemove="False" Type="Zombie">
+<Behavior ToRemove="False" Type="Zombie"/>
+</Model>
+<Behavior ToRemove="False" Type="Wave"/>
+</Wave>
+<Wave GameTime="0" Index="9" IsFinished="False" IsReady="False" IsStarted="False" MaxTime="2100" SetLastGameTime="True" Time="105000" ToRemove="False" Type="Wave" Zombies="30">
+<Model Damage="1" GameTime="0" Health="300" ModelState="STILL" Position="-40 215" Selected="False" Speed="3 0" ToRemove="False" Type="Zombie">
+<Behavior ToRemove="False" Type="Zombie"/>
+</Model>
+<Behavior ToRemove="False" Type="Wave"/>
+</Wave>
+<Wave GameTime="0" Index="10" IsFinished="False" IsReady="False" IsStarted="False" MaxTime="240" SetLastGameTime="True" Time="12000" ToRemove="False" Type="Wave" Zombies="20">
+<Model Damage="1" GameTime="0" Health="300" ModelState="STILL" Position="-38 9" Selected="False" Speed="4 0" ToRemove="False" Type="Zombie">
+<Behavior ToRemove="False" Type="Zombie"/>
+</Model>
+<Behavior ToRemove="False" Type="Wave"/>
+</Wave>
+<Behavior CurrentWave="0" ToRemove="False" Type="Model.BehaviorGameRules" gameState="NEXT_WAVE_WARNING"/>
+</Root>
